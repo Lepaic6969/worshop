@@ -1,0 +1,94 @@
+
+.navigationBar{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0 2em;
+}
+.logoNavBar{
+    padding-left: 4em;
+}
+.logos{
+    width: max-content;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+.logos2{
+    padding: 0 1em;
+}
+.enlaces a{
+    text-decoration: none;
+    color: rgb(128, 128, 128);
+    padding: 0 1em;
+    cursor: pointer;
+}
+.enlaces a:hover{
+    color: black;
+}
+.sectionCabecera{
+    display: flex;
+    justify-content: center;
+}
+.card-body{
+    padding: 3em 1em;
+}
+.card-title{
+    font-size: 3em;
+    margin: 1em 0;
+}
+.card-text{
+    padding: 1em 0;
+    font-size: 1.2em;
+    
+}
+.btn-primary{
+    background-color: rgb(206, 71, 22);
+    border: none;
+    padding: 1em 2em;
+    margin: 2em 0;
+    color: black;
+    font-weight: 900;
+}
+.fotosHeader{
+    display: flex;
+
+}
+.img0203 img{
+    display: flex;
+}
+.logo{
+    width: 85%;
+    margin: 0 auto;
+}
+.divFooter{
+    display: flex;
+    justify-content: space-around;
+}
+.divFooter h3{
+    font-size: 1.5em;
+    padding: 1em 0;
+}
+.footer1,
+.footer2,
+.footer3{
+    width: 15em;
+    line-height: .5em;
+}
+.footer1 a{
+    line-height: 1.2em;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+.copyRedes{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 80px;
+}
+.copyRedes .cpyright{
+    color: gray;
+}
