@@ -1,0 +1,154 @@
+.div1{
+    position: absolute;
+    width: 437px;
+    height: 466px;
+    left: 140px;
+    top: 808px;
+
+}
+.divText{
+    position: absolute;
+    width: 554px;
+    height: 364px;
+    left: 630px;
+    top: 859px;
+
+}
+.read{
+    margin-top: 20px;
+   display: flex;
+    width: 197px;
+    height: 26px;
+    left: 672px;
+    top: 1194px;
+
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    letter-spacing: 0.1em;
+    color: orangered ;
+}
+
+.cont4{
+    position: absolute;
+    width: 1086px;
+    height: 471px;
+    left: 140px;
+    top: 3524px;
+
+}
+sec12
+    .exp1{
+       
+        width: 526px;
+        height: 228px;
+        left: 140px;
+        margin-top: 30px;
+
+        background: rgba(255, 126, 32, 0.05);
+        border-radius: 16px;
+           }
+
+.main{
+    display: flex;
+    gap:20px;
+    
+}
+
+.div5{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.seccion10{
+    position: absolute;
+    width: 1086px;
+    height: 350.25px;
+    left: 140px;
+    top: 4115px;
+    display: flex;
+
+}
+.subsec10{
+    display: flex;
+    gap:10px
+}
+
+.sec11{
+    position: absolute;
+    width: 430px;
+    height: 202px;
+    
+}
+.conth1{
+    width: 159px;
+    height: 56px;
+    background: #FF7E20;
+    border-radius: 10px;
+   
+}
+.h1{
+   margin-left: 10px;
+    margin-top: 13px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+
+    color: #161616;
+}
+
+input{
+   
+ 
+    width: 257px;
+    height: 56px;
+    background: #EEEEEE;
+    border-radius: 10px;
+}
+
+.juice1{
+    width: 192px;
+    height: 236px;
+    margin-top: 20px;
+}
+
+.juice2{
+   
+    width: 145px;
+    height: 163.12px;
+   
+   
+}
+
+.juice3{
+    width: 145px;
+    height: 163.12px;
+    margin-top: 20px;
+}
+
+.juice4{
+    width: 192px;
+    height: 293px;
+}
+.sec12{
+    display:flex;
+    width: 677px;
+    height: 350.25px;
+    margin-left: 500px;
+    margin-top: -50px;
+}
+
+.j3{
+    margin-left:15px;
+    display: block;
+}
