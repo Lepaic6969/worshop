@@ -41,9 +41,9 @@
     top: 3524px;
 
 }
-sec12
+
     .exp1{
-       
+        gap: 40px;
         width: 526px;
         height: 228px;
         left: 140px;
@@ -151,4 +151,103 @@ input{
 .j3{
     margin-left:15px;
     display: block;
+}
+
+.div12{
+    position: absolute;
+    width: 1366px;
+    height: 478px;
+   
+    top: 2926px;
+    background-color: rgba(255, 126, 32, 0.06)
+
+}
+
+.h12{
+    
+width: 708px;
+height: 70px;
+margin-left: 100px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+/* identical to box height, or 140% */
+
+letter-spacing: 0.04em;
+
+color: #060922;
+}
+.parrafo{
+
+
+width: 480px;
+height: 90px;
+margin-left: 100px;
+
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+
+color: #333232;
+
+}
+.buy{
+    position: absolute;
+    width: 170px;
+    height: 61px;
+    left: 140px;    
+    background: #FF7E20;
+    border-radius: 10px;
+    margin-top: 50px;
+  
+}
+.h3{
+ 
+    width: 188px;
+    height: 29px;
+    
+    margin-top: 15px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    margin-left: -5px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #161616;
+    
+}
+exp1
+.img10{
+
+width: 259.34px;
+height: 221.89px;
+margin-left: 580.55px;
+transform: rotate(-12.81deg);
+margin-top: -250px;
+
+}
+.img11{
+ 
+width: 827px;
+height: 513px;
+margin-left: 400px;
+margin-top: -300px;
+
+}
+.conta{
+    width: 1400px;
+    height: 1105px;
+   
 }
